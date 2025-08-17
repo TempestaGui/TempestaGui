@@ -23,3 +23,13 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 💡 Comecei a programar em 2023 e, desde então, venho me desafiando e aprendendo coisas novas.  
 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.  
 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.  
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TempestaGui/TempestaGui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TempestaGui/TempestaGui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TempestaGui/TempestaGui/output/pacman-contribution-graph.svg">
+</picture>
+
+###
