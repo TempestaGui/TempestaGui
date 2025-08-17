@@ -32,10 +32,13 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TempestaGui/TempestaGui/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TempestaGui/TempestaGui/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TempestaGui/TempestaGui/output/pacman-contribution-graph.svg">
-</picture>
+![Snake animation](https://github.com/TempestaGui/TempestaGui/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TempestaGui&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempestaGui&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TempestaGui)
 
 ###
