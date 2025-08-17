@@ -39,6 +39,4 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempestaGui&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TempestaGui)
-
 ###
