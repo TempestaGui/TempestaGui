@@ -1,4 +1,7 @@
 # 👋 Olá, visitante!
+<div aling="center">
+<img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200"/>
+ </div>
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
 ## 🌟 Informações Públicas
