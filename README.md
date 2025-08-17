@@ -24,6 +24,12 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.  
 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.  
 
+
+##
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TempestaGui&locale=pt-br&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
 ###
 
 <picture>
