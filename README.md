@@ -26,6 +26,12 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 💡 Comecei a programar em 2023 e, desde então, venho me desafiando e aprendendo coisas novas.  
 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.  
 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.  
+## 📚 Atualmente estudando
+- ☕ Java Avançado e Spring Boot
+- 📊 SQL e Power BI
+- ⚛️ React e Angular
+- 🐧 Linux para Devs
+
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -67,3 +73,6 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 [![TempestaGui github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TempestaGui&theme=react)](https://github.com/TempestaGui)
 
 ###
+
+
+
