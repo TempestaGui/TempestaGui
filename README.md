@@ -51,6 +51,8 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
   <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+
 </div>
 
 
