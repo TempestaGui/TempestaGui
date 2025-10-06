@@ -78,3 +78,83 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 
 
 
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/TempestaGui"> 🔗
+  https://gitfollio.vercel.app/TempestaGui
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Tempesta",
+  "email": "guilhermeftempesta@gmail.com",
+  "tagline": "Back-end-Developer",
+  "avatar_url": "https://avatars.githubusercontent.com/u/127952646?v=4",
+  "website": "",
+  "githubUser": "TempestaGui",
+  "linkedinUser": "https://www.linkedin.com/in/guilherme-tempesta-82b235286",
+  "about": "Desenvolvedor back-end com experiencia compravada em java, spring, git, gitlab, angular. Com objetivo de construir uma carreira que una tecnologia e criativadade, focado em criar soluçoes efciente e impactantes. ",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 10,
+  "following": 17,
+  "themeId": "cyberpunk",
+  "tech": [
+  "java",
+  "SpringBoot",
+  "Restful API",
+  "Web Development"
+],
+  "projects": [
+  {
+    "id": 1069878952,
+    "repoName": "EducaWeb-spring-jpa",
+    "url": "https://github.com/TempestaGui/EducaWeb-spring-jpa",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [
+      "java"
+    ],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1060957842,
+    "repoName": "DashboardTrafego",
+    "url": "https://github.com/TempestaGui/DashboardTrafego",
+    "stars": 0,
+    "description": "DashBoar de apresenta o trafego que passar por uma maquina especifica ",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 986678979,
+    "repoName": "DsList",
+    "url": "https://github.com/TempestaGui/DsList",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 972830889,
+    "repoName": "OnlineCV-Java",
+    "url": "https://github.com/TempestaGui/OnlineCV-Java",
+    "stars": 0,
+    "description": "🐈‍⬛ O projeto é uma aplicação de terminal desenvolvida em Java que permite aos usuários criar, editar e visualizar currículos de forma segura e estruturada. Projetado com foco em princípios de orientação a objetos (POO) e organização de código, este sistema é ideal para quem busca uma solução simples para gerenciar informações profissionais ",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
+
+
