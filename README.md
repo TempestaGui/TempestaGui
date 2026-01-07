@@ -56,12 +56,6 @@ alem de explorar novos conceitos, novidades e experiências que têm sido transf
 </div>
 
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TempestaGui&locale=pt-br&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph](https://github-readme-streak-stats.herokuapp.com/?user=TempestaGui&theme=github_dark_dimmed&hide_border=true)" />
-</div>
-
 ###
 
 ![Snake animation](https://github.com/TempestaGui/TempestaGui/blob/output/github-contribution-grid-snake.svg)
